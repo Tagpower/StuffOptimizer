@@ -1,0 +1,27 @@
+#!/bin/bash
+echo "{"
+for file in pictures/*
+do
+   echo -e "\t\"$(basename ${file} .png)\":{"
+   echo -e "\t\t\"id\":\"$(basename ${file} .png)\","
+   echo -e "\t\t\"complete_name\":\"$(basename ${file} .png)\","
+   echo -e "\t\t\"icon\":\":/resources/${file}\","
+   echo -e "\t\t\"ap\":0,"
+   echo -e "\t\t\"ad\":0,"
+   echo -e "\t\t\"hp\":0,"
+   echo -e "\t\t\"mana\":0,"
+   echo -e "\t\t\"hp_regen\":0,"
+   echo -e "\t\t\"mana_regen\":0,"
+   echo -e "\t\t\"attack_speed\":0,"
+   echo -e "\t\t\"critical_strike\":0,"
+   echo -e "\t\t\"critical_damage\":0,"
+   echo -e "\t\t\"armor\":0,"
+   echo -e "\t\t\"magic_resistance\":0,"
+   echo -e "\t\t\"move_speed\":0,"
+   echo -e "\t\t\"effect_1\":0,"
+   echo -e "\t\t\"effect_2\":0,"
+   echo -e "\t\t\"effect_3\":0,"
+   echo -e "\t\t\"effect_4\":0"
+   echo -e "\t},"
+done
+echo -n "}"
