@@ -31,12 +31,10 @@ void Widget::loadIcons() {
     QJsonDocument doc = QJsonDocument::fromJson(txt.toUtf8());
     QJsonObject obj = doc.object();
     for (auto it = obj.begin(); it != obj.end(); ++it) {
-        //QJsonValue id = obj.valueAt(i).toObject().value("id");
         QCheckBox* check = new QCheckBox();
         check->setText((*it).toObject().value("complete_name").toString());
-        //check->setIcon(QIcon(":/resources/pictures/abyssal.png"));
-        //check->setIconSize(QSize(16,16));
+        check->setIcon(QIcon((*it).toObject().value("icon").toString()));
+        check->setIconSize(QSize(50,50));
         ui->gridLayout->addWidget(check);
     }
-    ui->checkBox->setIcon(QIcon(":/swiftness.png"));
 }
