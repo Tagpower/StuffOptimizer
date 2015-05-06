@@ -2,7 +2,7 @@
 	"abyssal":{
 		"id":"abyssal",
 		"complete_name":"abyssal",
-		"icon":":/abyssal.png",
+		"icon":":/resources/pictures/abyssal.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -23,7 +23,7 @@
 	"aegis":{
 		"id":"aegis",
 		"complete_name":"aegis",
-		"icon":":/aegis.png",
+		"icon":":/resources/pictures/aegis.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -44,7 +44,7 @@
 	"aether":{
 		"id":"aether",
 		"complete_name":"aether",
-		"icon":":/aether.png",
+		"icon":":/resources/pictures/aether.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -65,7 +65,7 @@
 	"ancient":{
 		"id":"ancient",
 		"complete_name":"ancient",
-		"icon":":/ancient.png",
+		"icon":":/resources/pictures/ancient.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -86,7 +86,7 @@
 	"archangel":{
 		"id":"archangel",
 		"complete_name":"archangel",
-		"icon":":/archangel.png",
+		"icon":":/resources/pictures/archangel.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -107,7 +107,7 @@
 	"ardent":{
 		"id":"ardent",
 		"complete_name":"ardent",
-		"icon":":/ardent.png",
+		"icon":":/resources/pictures/ardent.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -128,7 +128,7 @@
 	"athene":{
 		"id":"athene",
 		"complete_name":"athene",
-		"icon":":/athene.png",
+		"icon":":/resources/pictures/athene.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -149,7 +149,7 @@
 	"avarice":{
 		"id":"avarice",
 		"complete_name":"avarice",
-		"icon":":/avarice.png",
+		"icon":":/resources/pictures/avarice.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -170,7 +170,7 @@
 	"bamis":{
 		"id":"bamis",
 		"complete_name":"bamis",
-		"icon":":/bamis.png",
+		"icon":":/resources/pictures/bamis.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -191,7 +191,7 @@
 	"banner":{
 		"id":"banner",
 		"complete_name":"banner",
-		"icon":":/banner.png",
+		"icon":":/resources/pictures/banner.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -212,7 +212,7 @@
 	"banshee":{
 		"id":"banshee",
 		"complete_name":"banshee",
-		"icon":":/banshee.png",
+		"icon":":/resources/pictures/banshee.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -233,7 +233,7 @@
 	"bead":{
 		"id":"bead",
 		"complete_name":"bead",
-		"icon":":/bead.png",
+		"icon":":/resources/pictures/bead.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -254,7 +254,7 @@
 	"belt":{
 		"id":"belt",
 		"complete_name":"belt",
-		"icon":":/belt.png",
+		"icon":":/resources/pictures/belt.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -275,7 +275,7 @@
 	"berserker":{
 		"id":"berserker",
 		"complete_name":"berserker",
-		"icon":":/berserker.png",
+		"icon":":/resources/pictures/berserker.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -296,7 +296,7 @@
 	"bfsword":{
 		"id":"bfsword",
 		"complete_name":"bfsword",
-		"icon":":/bfsword.png",
+		"icon":":/resources/pictures/bfsword.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -317,7 +317,7 @@
 	"bilgewater":{
 		"id":"bilgewater",
 		"complete_name":"bilgewater",
-		"icon":":/bilgewater.png",
+		"icon":":/resources/pictures/bilgewater.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -338,7 +338,7 @@
 	"blade":{
 		"id":"blade",
 		"complete_name":"blade",
-		"icon":":/blade.png",
+		"icon":":/resources/pictures/blade.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -359,7 +359,7 @@
 	"blasting":{
 		"id":"blasting",
 		"complete_name":"blasting",
-		"icon":":/blasting.png",
+		"icon":":/resources/pictures/blasting.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -380,7 +380,7 @@
 	"boots":{
 		"id":"boots",
 		"complete_name":"boots",
-		"icon":":/boots.png",
+		"icon":":/resources/pictures/boots.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -401,7 +401,7 @@
 	"bracer":{
 		"id":"bracer",
 		"complete_name":"bracer",
-		"icon":":/bracer.png",
+		"icon":":/resources/pictures/bracer.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -422,7 +422,7 @@
 	"brawler":{
 		"id":"brawler",
 		"complete_name":"brawler",
-		"icon":":/brawler.png",
+		"icon":":/resources/pictures/brawler.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -443,7 +443,7 @@
 	"catalyst":{
 		"id":"catalyst",
 		"complete_name":"catalyst",
-		"icon":":/catalyst.png",
+		"icon":":/resources/pictures/catalyst.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -464,7 +464,7 @@
 	"chain":{
 		"id":"chain",
 		"complete_name":"chain",
-		"icon":":/chain.png",
+		"icon":":/resources/pictures/chain.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -485,7 +485,7 @@
 	"chalice":{
 		"id":"chalice",
 		"complete_name":"chalice",
-		"icon":":/chalice.png",
+		"icon":":/resources/pictures/chalice.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -506,7 +506,7 @@
 	"cloak":{
 		"id":"cloak",
 		"complete_name":"cloak",
-		"icon":":/cloak.png",
+		"icon":":/resources/pictures/cloak.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -527,7 +527,7 @@
 	"cloth":{
 		"id":"cloth",
 		"complete_name":"cloth",
-		"icon":":/cloth.png",
+		"icon":":/resources/pictures/cloth.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -548,7 +548,7 @@
 	"cowl":{
 		"id":"cowl",
 		"complete_name":"cowl",
-		"icon":":/cowl.png",
+		"icon":":/resources/pictures/cowl.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -569,7 +569,7 @@
 	"dagger":{
 		"id":"dagger",
 		"complete_name":"dagger",
-		"icon":":/dagger.png",
+		"icon":":/resources/pictures/dagger.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -590,7 +590,7 @@
 	"edge":{
 		"id":"edge",
 		"complete_name":"edge",
-		"icon":":/edge.png",
+		"icon":":/resources/pictures/edge.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -611,7 +611,7 @@
 	"faerie":{
 		"id":"faerie",
 		"complete_name":"faerie",
-		"icon":":/faerie.png",
+		"icon":":/resources/pictures/faerie.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -632,7 +632,7 @@
 	"fiendish":{
 		"id":"fiendish",
 		"complete_name":"fiendish",
-		"icon":":/fiendish.png",
+		"icon":":/resources/pictures/fiendish.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -653,7 +653,7 @@
 	"flask":{
 		"id":"flask",
 		"complete_name":"flask",
-		"icon":":/flask.png",
+		"icon":":/resources/pictures/flask.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -674,7 +674,7 @@
 	"forbidden":{
 		"id":"forbidden",
 		"complete_name":"forbidden",
-		"icon":":/forbidden.png",
+		"icon":":/resources/pictures/forbidden.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -695,7 +695,7 @@
 	"frostfang":{
 		"id":"frostfang",
 		"complete_name":"frostfang",
-		"icon":":/frostfang.png",
+		"icon":":/resources/pictures/frostfang.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -716,7 +716,7 @@
 	"frozen":{
 		"id":"frozen",
 		"complete_name":"frozen",
-		"icon":":/frozen.png",
+		"icon":":/resources/pictures/frozen.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -737,7 +737,7 @@
 	"ga":{
 		"id":"ga",
 		"complete_name":"ga",
-		"icon":":/ga.png",
+		"icon":":/resources/pictures/ga.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -758,7 +758,7 @@
 	"ginsoo":{
 		"id":"ginsoo",
 		"complete_name":"ginsoo",
-		"icon":":/ginsoo.png",
+		"icon":":/resources/pictures/ginsoo.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -779,7 +779,7 @@
 	"guise":{
 		"id":"guise",
 		"complete_name":"guise",
-		"icon":":/guise.png",
+		"icon":":/resources/pictures/guise.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -800,7 +800,7 @@
 	"gunblade":{
 		"id":"gunblade",
 		"complete_name":"gunblade",
-		"icon":":/gunblade.png",
+		"icon":":/resources/pictures/gunblade.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -821,7 +821,7 @@
 	"hexdrinker":{
 		"id":"hexdrinker",
 		"complete_name":"hexdrinker",
-		"icon":":/hexdrinker.png",
+		"icon":":/resources/pictures/hexdrinker.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -842,7 +842,7 @@
 	"kindlegem":{
 		"id":"kindlegem",
 		"complete_name":"kindlegem",
-		"icon":":/kindlegem.png",
+		"icon":":/resources/pictures/kindlegem.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -863,7 +863,7 @@
 	"long":{
 		"id":"long",
 		"complete_name":"long",
-		"icon":":/long.png",
+		"icon":":/resources/pictures/long.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -884,7 +884,7 @@
 	"machete":{
 		"id":"machete",
 		"complete_name":"machete",
-		"icon":":/machete.png",
+		"icon":":/resources/pictures/machete.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -905,7 +905,7 @@
 	"mail":{
 		"id":"mail",
 		"complete_name":"mail",
-		"icon":":/mail.png",
+		"icon":":/resources/pictures/mail.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -926,7 +926,7 @@
 	"mallet":{
 		"id":"mallet",
 		"complete_name":"mallet",
-		"icon":":/mallet.png",
+		"icon":":/resources/pictures/mallet.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -947,7 +947,7 @@
 	"mantle":{
 		"id":"mantle",
 		"complete_name":"mantle",
-		"icon":":/mantle.png",
+		"icon":":/resources/pictures/mantle.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -968,7 +968,7 @@
 	"mobility":{
 		"id":"mobility",
 		"complete_name":"mobility",
-		"icon":":/mobility.png",
+		"icon":":/resources/pictures/mobility.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -989,7 +989,7 @@
 	"mountain":{
 		"id":"mountain",
 		"complete_name":"mountain",
-		"icon":":/mountain.png",
+		"icon":":/resources/pictures/mountain.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1010,7 +1010,7 @@
 	"Negatron":{
 		"id":"Negatron",
 		"complete_name":"Negatron",
-		"icon":":/Negatron.png",
+		"icon":":/resources/pictures/Negatron.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1031,7 +1031,7 @@
 	"pickaxe":{
 		"id":"pickaxe",
 		"complete_name":"pickaxe",
-		"icon":":/pickaxe.png",
+		"icon":":/resources/pictures/pickaxe.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1052,7 +1052,7 @@
 	"queen":{
 		"id":"queen",
 		"complete_name":"queen",
-		"icon":":/queen.png",
+		"icon":":/resources/pictures/queen.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1073,7 +1073,7 @@
 	"reaver":{
 		"id":"reaver",
 		"complete_name":"reaver",
-		"icon":":/reaver.png",
+		"icon":":/resources/pictures/reaver.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1094,7 +1094,7 @@
 	"relic":{
 		"id":"relic",
 		"complete_name":"relic",
-		"icon":":/relic.png",
+		"icon":":/resources/pictures/relic.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1115,7 +1115,7 @@
 	"revolver":{
 		"id":"revolver",
 		"complete_name":"revolver",
-		"icon":":/revolver.png",
+		"icon":":/resources/pictures/revolver.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1136,7 +1136,7 @@
 	"ring":{
 		"id":"ring",
 		"complete_name":"ring",
-		"icon":":/ring.png",
+		"icon":":/resources/pictures/ring.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1157,7 +1157,7 @@
 	"ruby":{
 		"id":"ruby",
 		"complete_name":"ruby",
-		"icon":":/ruby.png",
+		"icon":":/resources/pictures/ruby.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1178,7 +1178,7 @@
 	"ruined":{
 		"id":"ruined",
 		"complete_name":"ruined",
-		"icon":":/ruined.png",
+		"icon":":/resources/pictures/ruined.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1199,7 +1199,7 @@
 	"Sapphire":{
 		"id":"Sapphire",
 		"complete_name":"Sapphire",
-		"icon":":/Sapphire.png",
+		"icon":":/resources/pictures/Sapphire.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1220,7 +1220,7 @@
 	"shield":{
 		"id":"shield",
 		"complete_name":"shield",
-		"icon":":/shield.png",
+		"icon":":/resources/pictures/shield.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1241,7 +1241,7 @@
 	"shroud":{
 		"id":"shroud",
 		"complete_name":"shroud",
-		"icon":":/shroud.png",
+		"icon":":/resources/pictures/shroud.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1262,7 +1262,7 @@
 	"swiftness":{
 		"id":"swiftness",
 		"complete_name":"swiftness",
-		"icon":":/swiftness.png",
+		"icon":":/resources/pictures/swiftness.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1283,7 +1283,7 @@
 	"targon":{
 		"id":"targon",
 		"complete_name":"targon",
-		"icon":":/targon.png",
+		"icon":":/resources/pictures/targon.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1304,7 +1304,7 @@
 	"tear":{
 		"id":"tear",
 		"complete_name":"tear",
-		"icon":":/tear.png",
+		"icon":":/resources/pictures/tear.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1325,7 +1325,7 @@
 	"tome":{
 		"id":"tome",
 		"complete_name":"tome",
-		"icon":":/tome.png",
+		"icon":":/resources/pictures/tome.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1346,7 +1346,7 @@
 	"vampiric":{
 		"id":"vampiric",
 		"complete_name":"vampiric",
-		"icon":":/vampiric.png",
+		"icon":":/resources/pictures/vampiric.png",
 		"ap":0,
 		"ad":0,
 		"hp":0,
@@ -1363,5 +1363,5 @@
 		"effect_2":0,
 		"effect_3":0,
 		"effect_4":0
-	}
+    }
 }
