@@ -1,70 +1,70 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/resources">
-   <file>items.json</file>
-	<file alias="abyssal.png">pictures/abyssal.png</file>
-	<file alias="aegis.png">pictures/aegis.png</file>
-	<file alias="aether.png">pictures/aether.png</file>
-	<file alias="ancient.png">pictures/ancient.png</file>
-	<file alias="archangel.png">pictures/archangel.png</file>
-	<file alias="ardent.png">pictures/ardent.png</file>
-	<file alias="athene.png">pictures/athene.png</file>
-	<file alias="avarice.png">pictures/avarice.png</file>
-	<file alias="bamis.png">pictures/bamis.png</file>
-	<file alias="banner.png">pictures/banner.png</file>
-	<file alias="banshee.png">pictures/banshee.png</file>
-	<file alias="bead.png">pictures/bead.png</file>
-	<file alias="belt.png">pictures/belt.png</file>
-	<file alias="berserker.png">pictures/berserker.png</file>
-	<file alias="bfsword.png">pictures/bfsword.png</file>
-	<file alias="bilgewater.png">pictures/bilgewater.png</file>
-	<file alias="blade.png">pictures/blade.png</file>
-	<file alias="blasting.png">pictures/blasting.png</file>
-	<file alias="boots.png">pictures/boots.png</file>
-	<file alias="bracer.png">pictures/bracer.png</file>
-	<file alias="brawler.png">pictures/brawler.png</file>
-	<file alias="catalyst.png">pictures/catalyst.png</file>
-	<file alias="chain.png">pictures/chain.png</file>
-	<file alias="chalice.png">pictures/chalice.png</file>
-	<file alias="cloak.png">pictures/cloak.png</file>
-	<file alias="cloth.png">pictures/cloth.png</file>
-	<file alias="cowl.png">pictures/cowl.png</file>
-	<file alias="dagger.png">pictures/dagger.png</file>
-	<file alias="edge.png">pictures/edge.png</file>
-	<file alias="faerie.png">pictures/faerie.png</file>
-	<file alias="fiendish.png">pictures/fiendish.png</file>
-	<file alias="flask.png">pictures/flask.png</file>
-	<file alias="forbidden.png">pictures/forbidden.png</file>
-	<file alias="frostfang.png">pictures/frostfang.png</file>
-	<file alias="frozen.png">pictures/frozen.png</file>
-	<file alias="ga.png">pictures/ga.png</file>
-	<file alias="ginsoo.png">pictures/ginsoo.png</file>
-	<file alias="guise.png">pictures/guise.png</file>
-	<file alias="gunblade.png">pictures/gunblade.png</file>
-	<file alias="hexdrinker.png">pictures/hexdrinker.png</file>
-	<file alias="kindlegem.png">pictures/kindlegem.png</file>
-	<file alias="long.png">pictures/long.png</file>
-	<file alias="machete.png">pictures/machete.png</file>
-	<file alias="mail.png">pictures/mail.png</file>
-	<file alias="mallet.png">pictures/mallet.png</file>
-	<file alias="mantle.png">pictures/mantle.png</file>
-	<file alias="mobility.png">pictures/mobility.png</file>
-	<file alias="mountain.png">pictures/mountain.png</file>
-	<file alias="Negatron.png">pictures/Negatron.png</file>
-	<file alias="pickaxe.png">pictures/pickaxe.png</file>
-	<file alias="queen.png">pictures/queen.png</file>
-	<file alias="reaver.png">pictures/reaver.png</file>
-	<file alias="relic.png">pictures/relic.png</file>
-	<file alias="revolver.png">pictures/revolver.png</file>
-	<file alias="ring.png">pictures/ring.png</file>
-	<file alias="ruby.png">pictures/ruby.png</file>
-	<file alias="ruined.png">pictures/ruined.png</file>
-	<file alias="Sapphire.png">pictures/Sapphire.png</file>
-	<file alias="shield.png">pictures/shield.png</file>
-	<file alias="shroud.png">pictures/shroud.png</file>
-	<file alias="swiftness.png">pictures/swiftness.png</file>
-	<file alias="targon.png">pictures/targon.png</file>
-	<file alias="tear.png">pictures/tear.png</file>
-	<file alias="tome.png">pictures/tome.png</file>
-	<file alias="vampiric.png">pictures/vampiric.png</file>
+	<file>items.json</file>
+	<file>pictures/abyssal.png</file>
+	<file>pictures/aegis.png</file>
+	<file>pictures/aether.png</file>
+	<file>pictures/ancient.png</file>
+	<file>pictures/archangel.png</file>
+	<file>pictures/ardent.png</file>
+	<file>pictures/athene.png</file>
+	<file>pictures/avarice.png</file>
+	<file>pictures/bamis.png</file>
+	<file>pictures/banner.png</file>
+	<file>pictures/banshee.png</file>
+	<file>pictures/bead.png</file>
+	<file>pictures/belt.png</file>
+	<file>pictures/berserker.png</file>
+	<file>pictures/bfsword.png</file>
+	<file>pictures/bilgewater.png</file>
+	<file>pictures/blade.png</file>
+	<file>pictures/blasting.png</file>
+	<file>pictures/boots.png</file>
+	<file>pictures/bracer.png</file>
+	<file>pictures/brawler.png</file>
+	<file>pictures/catalyst.png</file>
+	<file>pictures/chain.png</file>
+	<file>pictures/chalice.png</file>
+	<file>pictures/cloak.png</file>
+	<file>pictures/cloth.png</file>
+	<file>pictures/cowl.png</file>
+	<file>pictures/dagger.png</file>
+	<file>pictures/edge.png</file>
+	<file>pictures/faerie.png</file>
+	<file>pictures/fiendish.png</file>
+	<file>pictures/flask.png</file>
+	<file>pictures/forbidden.png</file>
+	<file>pictures/frostfang.png</file>
+	<file>pictures/frozen.png</file>
+	<file>pictures/ga.png</file>
+	<file>pictures/ginsoo.png</file>
+	<file>pictures/guise.png</file>
+	<file>pictures/gunblade.png</file>
+	<file>pictures/hexdrinker.png</file>
+	<file>pictures/kindlegem.png</file>
+	<file>pictures/long.png</file>
+	<file>pictures/machete.png</file>
+	<file>pictures/mail.png</file>
+	<file>pictures/mallet.png</file>
+	<file>pictures/mantle.png</file>
+	<file>pictures/mobility.png</file>
+	<file>pictures/mountain.png</file>
+	<file>pictures/Negatron.png</file>
+	<file>pictures/pickaxe.png</file>
+	<file>pictures/queen.png</file>
+	<file>pictures/reaver.png</file>
+	<file>pictures/relic.png</file>
+	<file>pictures/revolver.png</file>
+	<file>pictures/ring.png</file>
+	<file>pictures/ruby.png</file>
+	<file>pictures/ruined.png</file>
+	<file>pictures/Sapphire.png</file>
+	<file>pictures/shield.png</file>
+	<file>pictures/shroud.png</file>
+	<file>pictures/swiftness.png</file>
+	<file>pictures/targon.png</file>
+	<file>pictures/tear.png</file>
+	<file>pictures/tome.png</file>
+	<file>pictures/vampiric.png</file>
 </qresource>
 </RCC>
